@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185110636207",
+    "project_id": "freshscan-backend",
+    "storage_bucket": "freshscan-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185110636207:android:0b2adc5f6c9c8c3b03965a",
+        "android_client_info": {
+          "package_name": "com.example.ascan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwe-iKwKmTka1mOK523ibGWTVg4l7D2RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
